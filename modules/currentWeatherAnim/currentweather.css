@@ -1,0 +1,16 @@
+
+.currentWeatherAnim .weathericon{
+  width: 130px;
+  height: auto;
+  border: solid 1px #0f0;
+  margin-top: -40px;
+  margin-bottom: -40px;
+}
+
+.currentweather .humidityIcon {
+  padding-right: 4px;
+}
+
+.currentweather .humidity-padding {
+  padding-bottom: 6px;
+}
